@@ -10,4 +10,4 @@ Ejecta el archivo Vortexz.py de esta manera #python Vortexz.py
 
 Alli estaran una series de configuraciones sigue los pasos y listo..
 
-#Alguna duda dirigirse a FreeNode al deja un memo a Xenial(Creador de XeniBot) o Freuddy
+#Alguna duda dirigirse a irc.libera.chat al deja un memo a Xenial(Creador de XeniBot) o Freuddy
