@@ -1,12 +1,12 @@
 # Vortexz
 Vortexz Bot IRC
 
-# Vortexz Esta Basado En XeniBot. Editado y Mejorado Por Mi Persona xD.
+# Vortexz Esta Basado En XeniBot. Editado y Mejorado Por Mi Persona.
 
-#Instalacion
-Descarga el Archivo atravez de una terminal, o dandole a descarga zip.
+# Instalacion
+Utiliza la terminar git clone  https://github.com/FreuddyHS/Vortexz.git .
 
-Ejecta el archivo Vortexz.py de esta manera #python Vortexz.py
+Ejecta el archivo Vortexz.py de esta manera "python Vortexz.py" - Sin las comillas
 
 Alli estaran una series de configuraciones sigue los pasos y listo..
 
